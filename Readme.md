@@ -1,0 +1,5 @@
+- HTML
+- JavaScript=ECMAscript
+- Nonjuck - templating language for JavaScript
+- Jade - templating language võimaldab html-i teismoodi kirjutada
+- 
